@@ -1,0 +1,5 @@
+# Python >= 3.9 is required. Tested with Python 3.10.
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+matplotlib>=3.7
